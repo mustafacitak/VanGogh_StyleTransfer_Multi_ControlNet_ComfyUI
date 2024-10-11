@@ -21,7 +21,7 @@ In this project, we will explore a workflow that transforms images into the “V
     - OpenPose (optional)
     - Lineart (optional)
 
-## ❗ Pay Attention
+## ❗ Usage
 
 If you haven't installed ComfyUI yet, you can download ComfyUI and ComfyUI Manager from the links below. There are different options for various operating systems.
 
@@ -31,24 +31,23 @@ If you haven't installed ComfyUI yet, you can download ComfyUI and ComfyUI Manag
 
 ### Custom Nodes:
 
-Don’t forget to download the Custom Nodes file from the drive link provided in the project files!
+Don’t forget to download the Custom Nodes file from the link provided in the project files!
 
-Link: [Custom Nodes](https://drive.google.com/drive/folders/1I5kI1aw42ZbdLidC25Zhd_4o59oi4G-b?usp=sharing)
+- [Edge Detection Models](https://education.civitai.com/civitai-guide-to-controlnet/)
 
 
 
 ### Model:
 
-Remember to download the model from the drive link located in the model folder!
+Remember to download the model from the link located in the model folder!
 
-Link: [Checkpoint SDXL 1.0 Model](https://drive.google.com/drive/folders/1OzR0OKJgbEwUX4pSCqrD6lAgss3Yc_6o?usp=sharing)
+- [SDXL Model](https://civitai.com/models/101055/sd-xl)
 
+### Also:
 
 Afterwards, you can use the [`Multi_ControlNet_ComfyUI_VangoghStyle.json`](./Multi_ControlNet_ComfyUI_VangoghStyle.json) file within the project to install any missing nodes. You can also manually download the models from the links below.
 
 
-- [SDXL Model](https://civitai.com/models/101055/sd-xl)
-- [Edge Detection Models](https://education.civitai.com/civitai-guide-to-controlnet/)
 
 Ensure that the models you download are SD XL compatible.
 
